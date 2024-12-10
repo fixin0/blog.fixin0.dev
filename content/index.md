@@ -1,3 +1,0 @@
-Hello, I’m Furkan. I am interested in game development, engine architecture, and simulation technologies. I am a computer programming student, and I’m working on projects like developing my own game engine using C++ and OpenGL. I aim to gain in-depth knowledge in areas that are the core of game development, such as graphics processing, physics engines, and optimization techniques.
-
-Additionally, I am also interested in working on simulations to model real-world events in a digital environment and to provide more realistic experiences. Projects like flight simulations and physics-based modeling also attract my attention.
