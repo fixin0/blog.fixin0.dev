@@ -16,7 +16,7 @@ If you have worked on a game project, or if you have worked on a SDK such as .NE
 
 The answer is asset management, resources were packaged and presented to you as such while the project was being created. 
 
-![[output.png]]
+![Build Example](https://github.com/fixin0/notes.fixin0.dev/blob/v4/img/output.png?raw=true)
 
 If we want to get a build operation in an engine today, we probably hope to get such a result. In current game engines, the packaging event has been carried to a slightly more advanced level and has now extended to creating binary files. But when we look at the games made with primitive game engines, for example, when we look at the Textures folder, the textures in the game appear as they are, they can be easily changed. It can be deleted and corrupted.
 
