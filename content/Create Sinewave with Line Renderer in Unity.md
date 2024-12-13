@@ -3,9 +3,10 @@
 
 A sine wave is a smooth, periodic oscillation that represents the graph of the mathematical sine function. It is a fundamental waveform in mathematics, physics, engineering, and signal processing
 
-![[sin.png]]
+![Sinewave](https://vru.vibrationresearch.com/wp-content/uploads/2021/10/SineMeasurement.png)
+
 ### Sinewave Formula
-![[formula_sinewave.png]]
+![Formula](https://github.com/fixin0/notes.fixin0.dev/blob/v4/img/formula_sinewave.png)
 
 ### Applying the formula in Unity 
 
