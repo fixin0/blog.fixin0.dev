@@ -39,5 +39,3 @@ When you start a build using IL2CPP, Unity automatically performs the following 
 5. Unity creates either an executable file or a DLL, depending on the platform you target. ````
 
 ```
-
-Now that we have talked about engine architecture and build processes, in the next section we will create a basic game with SFML and create a backend for its build.
